@@ -17,7 +17,7 @@ import {
   UtilizationCard,
   VirtualMachinesCard
 } from "./components";
-import { hardware, utilization, vms, notification } from "../data";
+import { hardware, utilization, vms, notification } from "./data";
 const userSession = {
   user: {
     name: "Shimi Shimi",
